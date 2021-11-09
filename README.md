@@ -40,5 +40,15 @@ Countplot showing it has 3758 defective fronts and 2875 ok fronts
 
 ![cntplt](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/countplot.png)
 
+Dataset is divided into 3 parts :
+* Training
+* Testing
+* Validation
+
+![shapes](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/shapes.png)
+![datas](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/train_test_val.png)
+
+
+
 
 
