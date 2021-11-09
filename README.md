@@ -21,4 +21,6 @@ There are mainly two categories:-
 
   ![Defective](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/defective.jpeg)
 * Ok
+
+
   ![Ok](https://github.com/pranaymohadikar/CastingProductInspection/blob/62492d2e3ee2f6a25a9d8426c289d521b46a379d/ok.jpeg)
