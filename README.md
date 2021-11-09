@@ -36,5 +36,9 @@ After converting into training and testing folders this dataset is used for coun
 
 ![count](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/counts.png)
 
+Countplot showing it has 3758 defective fronts and 2875 ok fronts
+
+![cntplt](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/countplot.png)
+
 
 
