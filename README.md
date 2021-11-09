@@ -48,7 +48,11 @@ Dataset is divided into 3 parts :
 ![shapes](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/shapes.png)
 ![datas](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/train_test_val.png)
 
+### Convolutional Neural Network(CNN) model building
+Created a NN for the dataset to train and predict the defective and ok fronts for industrial purpose.
 
+This model has 6 layers and here is summary of model
 
+![summary](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/model%20summary.png)
 
 
