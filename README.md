@@ -17,6 +17,8 @@ The dataset contains total _7348_ image data. These all are the size of _(300*30
 
 There are mainly two categories:-
 * Defective
+
+
   ![Defective](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/defective.jpeg)
 * Ok
   ![Ok](https://github.com/pranaymohadikar/CastingProductInspection/blob/62492d2e3ee2f6a25a9d8426c289d521b46a379d/ok.jpeg)
