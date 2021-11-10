@@ -70,12 +70,11 @@ With this we can also plot confusion matrix and provide classification report
 ![cm](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/confusion_matrix.png)
 
 Here 0 = defective front and 1 = ok front
+* x-axis = actual
+* y-axis = predicted
 
 Here precison and recall will be equally important so we will be checking Fscore.
-__FScore__ : ~99%
+* __FScore__ : ~99%
 
 ![rep](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/classification_report.png)
 
-
-
-![rep]
