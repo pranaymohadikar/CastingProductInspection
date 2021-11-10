@@ -55,4 +55,27 @@ This model has 6 layers and here is summary of model
 
 ![summary](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/model%20summary.png)
 
+Optimizer used= 'Adam'
+Also used model checkpoints for checking the overfitting so that when things go wrong model will be saved before that point.
 
+
+### Results
+accuracies and losses has been predicted for the given dataset.
+__Accuracy__ : ~98%
+
+![result](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/details%20about%20loss%20and%20acc.png)
+
+With this we can also plot confusion matrix and provide classification report
+
+![cm](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/confusion_matrix.png)
+
+Here 0 = defective front and 1 = ok front
+
+Here precison and recall will be equally important so we will be checking Fscore.
+__FScore__ : ~99%
+
+![rep](https://github.com/pranaymohadikar/CastingProductInspection/blob/main/classification_report.png)
+
+
+
+![rep]
